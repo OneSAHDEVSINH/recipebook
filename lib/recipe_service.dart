@@ -1,11 +1,10 @@
-//a017b0f5fd9e4b86a656c435d358b409
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class RecipeService {
-  final String apiKey = 'a017b0f5fd9e4b86a656c435d358b409';
+  final String apiKey = 'YOUR_API';
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
 
