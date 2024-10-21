@@ -13,12 +13,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-        apiKey: "AIzaSyCZ1gJdsZBbPKDkqBQHi5ZrP_n-Y3BaBHU",
-        authDomain: "recipebook-94d2b.firebaseapp.com",
-        projectId: "recipebook-94d2b",
-        storageBucket: "recipebook-94d2b.appspot.com",
-        messagingSenderId: "786900677416",
-        appId: "1:786900677416:web:c8798d253c674387e3961d",
+        apiKey: "YOUR_API",
+        authDomain: "YOUR_API",
+        projectId: "YOUR_API",
+        storageBucket: "YOUR_API",
+        messagingSenderId: "YOUR_API",
+        appId: "YOUR_API",
     ),
   );
   runApp(const MyApp());
