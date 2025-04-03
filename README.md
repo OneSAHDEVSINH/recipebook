@@ -83,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
-- [API Provider](https://example.com)
+- [API Provider](https://spoonacular.com/food-api)
